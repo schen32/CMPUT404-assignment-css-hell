@@ -1,0 +1,24 @@
+body {
+    background-color: lightyellow;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+img {
+    border-radius: 10%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #85213b;
+}
+
+p {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 1px;
+}

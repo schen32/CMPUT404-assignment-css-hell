@@ -1,0 +1,31 @@
+body {
+    background-color: cyan;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h1 {
+    text-align: left;
+    text-transform:capitalize;
+    color: #ab3f5c;
+    background-color: blueviolet;
+}
+h2 {
+    text-align: right;
+    text-transform: uppercase;
+    color: #a545ae;
+    background-color: bisque;
+}
+h3 {
+    text-align: center;
+    text-transform: lowercase;
+    color: #5eb780;
+    background-color: crimson;
+}
+
+p {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 4px;
+    color: #86571d;
+    background-color: chartreuse;
+}
